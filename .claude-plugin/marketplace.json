@@ -1,0 +1,6 @@
+{
+  "name": "git-casino",
+  "description": "Git Casino: a slot machine that spins on every git commit Claude makes",
+  "owner": { "name": "Talap-creator" },
+  "plugins": [{ "name": "git-casino", "source": "./" }]
+}

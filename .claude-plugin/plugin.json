@@ -1,0 +1,10 @@
+{
+  "name": "git-casino",
+  "version": "0.2.0",
+  "description": "Every git commit spins a slot machine; a clean commit pays double and green CI on the first try hits the jackpot",
+  "author": { "name": "Talap-creator", "url": "https://github.com/Talap-creator" },
+  "repository": "https://github.com/Talap-creator/git-casino",
+  "license": "MIT",
+  "keywords": ["git", "fun", "slot-machine", "gamification"],
+  "types": "./types/index.d.ts"
+}
